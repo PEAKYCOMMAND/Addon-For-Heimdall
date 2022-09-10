@@ -17,7 +17,8 @@ echo -e "${GREEN} ============================================================= 
 "${NC}
    echo -e "${YELLOW} for more information run  'heimdall'.
 
-type 'exit' to exit.
+Type 'exit' to exit.
+Type 'Addon' to run next time.
 ${NC}"
 
 cd /data/data/com.termux/files/home/storage/downloads/heimdall
