@@ -51,7 +51,7 @@ cp ./heimdall.zip /data/data/com.termux/files/home/storage/downloads/
   echo -e "${PURPLE} 
   Step 2 
   ${NC}"
-  echo -e "${RED} Go back termux  and run './install.sh' in terminal. ${NC}"
+  echo -e "${RED} Go back termux  and run './Addon.sh' in terminal. ${NC}"
  sleep 2
     exit
 
