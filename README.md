@@ -1,8 +1,10 @@
 # Addon-For-Heimdall
 Addon for heimdall module
 
-Instalation 
+Instalation in Termux 
 ```bash
+pkg install git
+
 termux-setup-storage
 ```
 ```bash
